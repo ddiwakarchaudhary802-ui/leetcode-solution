@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
