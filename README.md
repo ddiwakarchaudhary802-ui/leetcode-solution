@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0344-reverse-string) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0035-search-insert-position) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ddiwakarchaudhary802-ui/leetcode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
